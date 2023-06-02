@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Data.deps.json
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Data.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Data.pdb
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\refint\WPFwithEFApp.Data.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.pdb
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\ref\WPFwithEFApp.Data.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Data.runtimeconfig.json
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Domain.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\bin\Debug\net6.0\WPFwithEFApp.Domain.pdb
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.csproj.CopyComplete
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Data\obj\Debug\net6.0\WPFwithEFApp.Data.genruntimeconfig.cache

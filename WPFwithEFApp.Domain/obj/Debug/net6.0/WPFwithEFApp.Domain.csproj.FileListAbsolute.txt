@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\bin\Debug\net6.0\WPFwithEFApp.Domain.deps.json
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\bin\Debug\net6.0\WPFwithEFApp.Domain.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\bin\Debug\net6.0\WPFwithEFApp.Domain.pdb
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\refint\WPFwithEFApp.Domain.dll
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\WPFwithEFApp.Domain.pdb
+C:\Users\User\source\repos\WPFwithEF\WPFwithEFApp.Domain\obj\Debug\net6.0\ref\WPFwithEFApp.Domain.dll
